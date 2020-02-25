@@ -1,3 +1,4 @@
 <h1> Welcome to run first CI/CD project successfuly!!! </h1>
-<h2>This is my first project</h2>
+<h2>First Project is alive on Tomcate server</h2>
+
 
