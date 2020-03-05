@@ -2,6 +2,7 @@
 check!!! </h1>
 <h2>Project comes live on Tomcate server through jenkins</h2>
 <h3>Now, onward the Ansible is included now in the CI/CD The second attempt</h3>
-
+<h4>Now, this piece of docker is going to be dispatch on docker hub as 
+image</h4>
 
 
