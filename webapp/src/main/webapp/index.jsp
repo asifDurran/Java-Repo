@@ -2,6 +2,6 @@
 check!!! </h1>
 
 <h5>New docker images is going to be deploy</h5>
-
+<h2>The existing images and container has been replace with new one..</h2>
 <h3>This is my number....</h3>
 
